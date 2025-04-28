@@ -1,8 +1,8 @@
 ## 项目介绍
 
-本项目遵循 Robert C. Martin 的 Clean Architecture(清洁架构) 分层思想，将业务规则与框架代码彻底解耦，并借助 GetX 实现轻量、高性能的状态、路由及依赖管理；Get CLI 
+本项目遵循 Robert C. Martin 的 Clean Architecture 分层思想，将业务规则与框架代码彻底解耦，并借助 GetX 实现轻量、高性能的状态、路由及依赖管理；Get CLI 
 则负责脚手架与代码生成，显著降低样板代码与工程配置成本。Clean 
-Architecture（Data / Domain / Presentation）+ infrastructure 的权责和边界在下文有详细说明。
+Architecture 的权责和边界在下文有详细说明。
 
 
 
